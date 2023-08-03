@@ -1,0 +1,36 @@
+.AA{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    /* height: 100%; */
+    /* width: 30%; */
+}
+.AA .img{
+    height: 100%;
+    width: 500px;
+}
+.BB{
+    /* height: ; */
+    /* width: ; */
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+}
+.resistration{
+    /* height: 500px; */
+    /* width: 200px; */
+}
+.name{
+    /* height: 400px; */
+    /* width: 100%; */
+}
+.CC{
+    border:none;
+    box-shadow: 0 0 0 0;
+    outline: 0;
+    border-bottom: 2px solid black;
+}
+.DD{
+    margin-left: 90px;
+}
